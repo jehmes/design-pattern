@@ -6,7 +6,7 @@ public abstract class IPhone {
 	CountryRulesAbstractFactory rules;
 	
 	public IPhone(CountryRulesAbstractFactory rules) {
-		this.rules = rules;
+ 		this.rules = rules;
 	}
 
 	public abstract void getHardware();
