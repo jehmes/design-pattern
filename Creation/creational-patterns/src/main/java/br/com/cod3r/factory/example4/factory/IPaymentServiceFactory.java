@@ -1,6 +1,6 @@
-package br.com.cod3r.abstractfactory.example4.factory;
+package br.com.cod3r.factory.example4.factory;
 
-import br.com.cod3r.abstractfactory.example4.model.IPayment;
+import br.com.cod3r.factory.example4.model.IPayment;
 
 public abstract class IPaymentServiceFactory {
 

@@ -1,7 +1,7 @@
-package br.com.cod3r.abstractfactory.example4.service;
+package br.com.cod3r.factory.example4.service;
 
-import br.com.cod3r.abstractfactory.example4.model.CardPayment;
-import br.com.cod3r.abstractfactory.example4.model.IPayment;
+import br.com.cod3r.factory.example4.model.CardPayment;
+import br.com.cod3r.factory.example4.model.IPayment;
 
 import java.math.BigDecimal;
 import java.time.LocalDateTime;

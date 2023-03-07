@@ -1,4 +1,4 @@
-package br.com.cod3r.abstractfactory.example4.model;
+package br.com.cod3r.factory.example4.model;
 
 import java.math.BigDecimal;
 import java.time.LocalDateTime;
