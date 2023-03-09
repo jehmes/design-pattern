@@ -1,7 +1,8 @@
-package br.com.cod3r.singleton.connectionPool.monostate;
+package br.com.cod3r.singleton.connectionPool.monostate.after;
 
-import br.com.cod3r.singleton.connectionPool.monostate.conn.Connection;
-import br.com.cod3r.singleton.connectionPool.monostate.conn.ConnectionPool;
+
+import br.com.cod3r.singleton.connectionPool.monostate.after.conn.Connection;
+import br.com.cod3r.singleton.connectionPool.monostate.after.conn.ConnectionPool;
 
 public class Client {
 	public static void doQuery1() {
