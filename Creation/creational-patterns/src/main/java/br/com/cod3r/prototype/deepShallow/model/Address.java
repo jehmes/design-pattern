@@ -1,6 +1,6 @@
 package br.com.cod3r.prototype.deepShallow.model;
 
-public class Address implements Cloneable {
+public class Address {
 	public String street;
 	public Integer number;
 	
@@ -16,7 +16,7 @@ public class Address implements Cloneable {
 	}
 
 	@Override
-	public Object clone() throws CloneNotSupportedException {
-		return super.clone();
+	public Address clone() throws CloneNotSupportedException {
+		return (Address) super.clone();
 	}
 }

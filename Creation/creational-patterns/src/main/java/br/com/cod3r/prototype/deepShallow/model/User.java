@@ -1,6 +1,6 @@
 package br.com.cod3r.prototype.deepShallow.model;
 
-public class User implements Cloneable {
+public class User implements Cloneable{
 	public String name;
 	public Integer age;
 	public Address address;
@@ -16,9 +16,11 @@ public class User implements Cloneable {
 	public String toString() {
 		return "User [name=" + name + ", age=" + age + ", address=" + address + "]";
 	}
-	
+
 	@Override
 	public User clone() throws CloneNotSupportedException {
-		return (User) super.clone();
+		User cloneUser = (User) super.clone();
+		cloneUser.address = cloneUser.address.clone();
+		return cloneUser;
 	}
 }

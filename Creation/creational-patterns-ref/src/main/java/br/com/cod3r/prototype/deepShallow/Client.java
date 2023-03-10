@@ -6,12 +6,12 @@ import br.com.cod3r.prototype.deepShallow.model.User;
 public class Client {
 
 	public static void main(String[] args) throws CloneNotSupportedException {
-		User user = new User("Clone", 25, new Address("ABC Street", 1000));
+		User user = new User("Thales", 27, new Address("Rua 1", 42));
 		System.out.println(user);
-		
+
 		User cloneUser = user.clone();
-		cloneUser.name = "Clone x2";
-		cloneUser.address.street = "Double Street";
+		cloneUser.name = "Jehmes";
+		cloneUser.address.street = "Rua 434";
 		System.out.println(user);
 		System.out.println(cloneUser);
 	}

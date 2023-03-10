@@ -1,6 +1,6 @@
 package br.com.cod3r.prototype.functionalCloneBuilder.model;
 
-public class Address {
+public class Address implements Cloneable{
 	private String street;
 	private Integer number;
 	
@@ -21,5 +21,10 @@ public class Address {
 	@Override
 	public String toString() {
 		return "Address [street=" + street + ", number=" + number + "]";
+	}
+
+	@Override
+	public Object clone() throws CloneNotSupportedException {
+		return super.clone();
 	}
 }

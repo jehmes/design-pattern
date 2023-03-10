@@ -1,5 +1,6 @@
 package br.com.cod3r.prototype.deepShallow;
 
+
 import br.com.cod3r.prototype.deepShallow.model.Address;
 import br.com.cod3r.prototype.deepShallow.model.User;
 
