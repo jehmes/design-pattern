@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Creation/creational-patterns/CreationalPatterns.iml" filepath="$PROJECT_DIR$/Creation/creational-patterns/CreationalPatterns.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Creation/creational-patterns-ref/CreationalPatternsRef.iml" filepath="$PROJECT_DIR$/Creation/creational-patterns-ref/CreationalPatternsRef.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Creational/creational-patterns/CreationalPatterns.iml" filepath="$PROJECT_DIR$/Creational/creational-patterns/CreationalPatterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Creational/creational-patterns-ref/CreationalPatternsRef.iml" filepath="$PROJECT_DIR$/Creational/creational-patterns-ref/CreationalPatternsRef.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Curso Design Pattern.iml" filepath="$PROJECT_DIR$/.idea/Curso Design Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Estructural/estructural-patterns/estructural-patterns.iml" filepath="$PROJECT_DIR$/Estructural/estructural-patterns/estructural-patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Estructural/estructural-patterns-ref/estructural-patterns-ref.iml" filepath="$PROJECT_DIR$/Estructural/estructural-patterns-ref/estructural-patterns-ref.iml" />
     </modules>
   </component>
 </project>
