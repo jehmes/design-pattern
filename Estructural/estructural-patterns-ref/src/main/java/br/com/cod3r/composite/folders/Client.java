@@ -11,7 +11,8 @@ import br.com.cod3r.composite.folders.model.Folder;
 public class Client {
 
 	public static FileSystemItem createCompositeFromFile(File file) {
-		if(!file.isDirectory()) return new br.com.cod3r.composite.folders.model.File(file.getName());
+		if(!file.isDirectory())
+			return new br.com.cod3r.composite.folders.model.File(file.getName());
 		List<FileSystemItem> childs = new ArrayList<>();
 		File[] files = file.listFiles();
 		for(File javaFile: files) {
