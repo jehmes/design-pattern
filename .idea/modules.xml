@@ -5,6 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/Creational/creational-patterns/CreationalPatterns.iml" filepath="$PROJECT_DIR$/Creational/creational-patterns/CreationalPatterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/Creational/creational-patterns-ref/CreationalPatternsRef.iml" filepath="$PROJECT_DIR$/Creational/creational-patterns-ref/CreationalPatternsRef.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Curso Design Pattern.iml" filepath="$PROJECT_DIR$/.idea/Curso Design Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Behavioral/behavioral-patterns/behavioral-patterns.iml" filepath="$PROJECT_DIR$/Behavioral/behavioral-patterns/behavioral-patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Behavioral/behavioral-patterns-ref/behavioral-patterns-ref.iml" filepath="$PROJECT_DIR$/Behavioral/behavioral-patterns-ref/behavioral-patterns-ref.iml" />
       <module fileurl="file://$PROJECT_DIR$/Estructural/estructural-patterns/estructural-patterns.iml" filepath="$PROJECT_DIR$/Estructural/estructural-patterns/estructural-patterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/Estructural/estructural-patterns-ref/estructural-patterns-ref.iml" filepath="$PROJECT_DIR$/Estructural/estructural-patterns-ref/estructural-patterns-ref.iml" />
     </modules>

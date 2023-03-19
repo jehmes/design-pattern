@@ -8,11 +8,15 @@
         <outputRelativeToContentRoot value="true" />
         <module name="CreationalPatterns" />
         <module name="CreationalPatternsRef" />
+        <module name="behavioral-patterns-ref" />
         <module name="estructural-patterns" />
         <module name="estructural-patterns-ref" />
+        <module name="behavioral-patterns" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="behavioral-patterns" target="1.8" />
+      <module name="behavioral-patterns-ref" target="1.8" />
       <module name="CreationalPatterns" target="1.8" />
       <module name="CreationalPatternsRef" target="1.8" />
       <module name="estructural-patterns" target="1.8" />

@@ -9,6 +9,8 @@
         <option value="$PROJECT_DIR$/Creational/creational-patterns/pom.xml" />
         <option value="$PROJECT_DIR$/Estructural/estructural-patterns/pom.xml" />
         <option value="$PROJECT_DIR$/Estructural/estructural-patterns-ref/pom.xml" />
+        <option value="$PROJECT_DIR$/Behavioral/behavioral-patterns-ref/pom.xml" />
+        <option value="$PROJECT_DIR$/Behavioral/behavioral-patterns/pom.xml" />
       </list>
     </option>
   </component>
